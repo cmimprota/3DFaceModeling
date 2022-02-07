@@ -1,0 +1,39 @@
+ours 7: (no data augmentation)
+...
+Training for epoch  598
+epoch  598  Train loss  0.2048768340786801  Val loss  0.47154555402018805
+Training for epoch  599
+epoch  599  Train loss  0.20167152753359155  Val loss  0.4682467288591645
+Training for epoch  600
+epoch  600  Train loss  0.20011072596417198  Val loss  0.4688171155073426
+
+ours 8: (data augmentation)
+...
+epoch  497  Train loss  0.33678346457360664  Val loss  0.5233927030454982
+Training for epoch  498
+epoch  498  Train loss  0.33517661992507647  Val loss  0.5352806882424788
+Training for epoch  499
+epoch  499  Train loss  0.3346734122384953  Val loss  0.5385301980105314
+Training for epoch  500
+epoch  500  Train loss  0.3298207559163057  Val loss  0.5344003317030993
+Training for epoch  501
+epoch  501  Train loss  0.325996700721451  Val loss  0.5250900658694181
+Training for epoch  502
+epoch  502  Train loss  0.33260155025916766  Val loss  0.5472073771736838
+Training for epoch  503
+epoch  503  Train loss  0.33720467550845085  Val loss  0.5238459977236661
+
+ours 9: (less data augmentation)
+...
+Training for epoch  595
+epoch  595  Train loss  0.2787052566492105  Val loss  0.4705966595898975
+Training for epoch  596
+epoch  596  Train loss  0.28688792790038675  Val loss  0.47682021964680066
+Training for epoch  597
+epoch  597  Train loss  0.28723562706874894  Val loss  0.47072977369481867
+Training for epoch  598
+epoch  598  Train loss  0.28116165120390396  Val loss  0.47769806669516995
+Training for epoch  599
+epoch  599  Train loss  0.2856325348721275  Val loss  0.46979748525402765
+Training for epoch  600
+epoch  600  Train loss  0.2893374558491043  Val loss  0.4650859988548539

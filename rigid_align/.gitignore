@@ -1,0 +1,13 @@
+build
+release
+debug
+
+# VS Code files
+out
+.vs
+CMakeSettings.json
+
+
+# ignore some data
+data/test/
+data/test_out/

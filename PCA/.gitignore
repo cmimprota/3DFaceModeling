@@ -1,0 +1,21 @@
+build
+release
+debug
+
+# VS Code files
+out
+.vs
+CMakeSettings.json
+
+
+# ignore some data
+aligned_faces_example
+warped_out
+warped_out_small_subsample
+warped_out_subsample
+#warped_out_small
+#warped_out_small_v2
+#results
+
+# libigl
+libigl
